@@ -6,9 +6,11 @@
 | Academic Qualification    |           Institute              |       Academic Year           |        Grade/CGPA   |
 |---------------------------|----------------------------------|-------------------------------|---------------------|
 |  BS Computer Science      |   University of Engineering      |    September 2019 - 2023      |        3.4 CGPA     |
-                            |  & Technology (UET)- Peshawar		 | 					       		
-- FSC Pre-engineering        Islamia College Girls Peshawar        2016 - 2018                        77%			        		
-- Matric                      Warsak Model School & College            2015                           89%
+|                           |  & Technology (UET)- Peshawar		 | 					       		           |                     |
+|                           |                                  |                               |                     |
+|  FSC Pre-engineering      |  Islamia College Girls Peshawar  |         2016 - 2018           |          77%			   |     		
+|                           |                                  |                               |               		   |      
+|        Matric             |  Warsak Model School & College   |             2015              |          89%        |
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
