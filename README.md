@@ -3,7 +3,7 @@
 #### Technical Skills: Figma, Sketch, Andriod Studio, Visual Studio Code, GitHub
 
 ## Education
-| Academic Qualification    |           Institute              |       Academic Year           |        Grade/CGPA   |
+| Academic Qualification    |           Institute              |       Academic Year           |      Grade/CGPA     |
 |---------------------------|----------------------------------|-------------------------------|---------------------|
 |  BS Computer Science      |   University of Engineering      |    September 2019 - 2023      |        3.4 CGPA     |
 |                           |  & Technology (UET)- Peshawar		 | 					       		           |                     |
