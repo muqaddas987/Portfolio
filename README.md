@@ -5,8 +5,9 @@
 ## Education
 | Academic Qualification | Institute | Academic Year | Grade/CGPA |
 | --- | --- | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| BS Computer Science | University of Engineering and Technology (UET) - Peshawar |September 2019 - 2023 | 3.4 CGPA |
+| FSC Pre-engineering | Islamia College Girls Peshawar | 2016 - 2018 | 77% |
+| Matric | Warsak Model School & College (WMSC)- Peshawar | 2015 | 89% |
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
